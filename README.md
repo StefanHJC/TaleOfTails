@@ -5,6 +5,8 @@ This game is about three warrior cats who are trying to escape from rats dungeon
 
 During development our team was inspired by HoMM V and King's Bounty: The Legend.
 
+Here is some [gameplay demo](https://www.youtube.com/watch?v=KZTvbHCd3gQ "Gameplay demo video")
+
 Some code here need to be refactored :)
 
 ![alt text](https://github.com/StefanHJC/TaleOfTails/blob/master/ReadmeFiles/GIFs/2.gif "Wizard range attack gif")
