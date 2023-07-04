@@ -13,8 +13,6 @@ namespace Core.Infrastructure
         private ISystemFactory _systemFactory;
         private Game _game;
 
-        public event Action SceneChanged;
-
         [Inject]
         public void Construct(ISystemFactory systemFactory)
         {
